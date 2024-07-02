@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Api Volley String</string>
+    <string name="set_text">Set Text</string>
+    <string name="text">Text</string>
+</resources>
